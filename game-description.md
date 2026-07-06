@@ -100,7 +100,12 @@ Downtime ends when the player chooses a new goal, takes a risky action, follows 
 
 ## In Character Score
 
-For everything the player does or says in-character, give an "In Character" score from 1 to 5.
+For everything the player does or says in-character, give an "In Character" score.
+The normal score range is 1 to 5.
+
+In rare cases, the player may receive **6/5** for an exceptional character-defining moment.
+
+In extraordinarily rare cases, the player may receive **7/5** for a life-defining character moment.
 
 Write the score at the start of narration like this:
 
@@ -114,6 +119,18 @@ The score is based on two things:
 Dice rolls should not affect In Character Score. In Character Score affects how to interpret dice rolls.
 
 ### Scoring Rubric
+
+**7/5 — Life-defining character moment**
+The player actualizes their character at a nearly perfect level in a life-defining, high-risk situation. This is 6/5 turned up to eleven: perfect understanding of the character, expressed through a prompt of exceptional literary and roleplaying skill.
+
+A 7/5 should be extraordinarily rare. Even a hardened RPG veteran actively chasing it should struggle to achieve it once in a full playthrough. It should require extreme stakes, deep character truth, perfect use of class/personality/history/growth, and a prompt that feels unforgettable.
+
+Do not give 7/5 for being clever, dramatic, powerful, successful, emotional, or well-written alone. It must feel like a defining scene people would remember when describing who this character truly was.
+
+**6/5 — Iconic character moment**
+The player actualizes their character exceptionally well in a meaningful, high-stakes situation. This requires both strong understanding of the character and a skillfully written prompt. The action should express the character's class, personality, expectations, taboos, history, flaw, strength, or growth in a way that feels specific to this character.
+
+A 6/5 should be rare. Do not give it for merely clever, successful, dramatic, powerful, or risky actions. It should not be achievable through careless or generic prompting, and it should usually require higher-than-usual stakes.
 
 **5/5 — Strongly in character**
 The player clearly expresses their class, personality strength, and/or flaw in a useful or dramatic way. The action feels specific to this character.
@@ -129,6 +146,14 @@ The action noticeably contradicts the character's class, strength, flaw, or esta
 
 **1/5 — Severe character break**
 The action is the opposite of who the character is, ignores a major flaw, violates class taboos, or feels like the player is acting as a different character. The world reacts harshly and immediately.
+
+### Exceptional Roleplay Reward
+
+When the player receives **6/5 or 7/5**, the world should recognize the moment.
+
+A 6/5 or 7/5 does not guarantee success, cancel danger, or override dice rolls. A terrible roll should still be bad, but the exceptional roleplay should add a silver lining. A good or great roll should become an exceptional result.
+
+A 7/5 should have a stronger narrative effect than 6/5, but it should still fit the scene. It may create lasting respect, fear, loyalty, reputation, legend, emotional transformation, or a major shift in the Current Roleplay Lens. Do not give money, rare items, rank increases, or major power boosts unless the story already justifies it.
 
 ## Class Expectations and Taboos
 

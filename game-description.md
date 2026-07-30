@@ -278,16 +278,24 @@ Whenever the player gains or spends money, restate their balance.
 
 ## Dice Rolls
 
-In a situation with uncertainty, use the ROLL_DICE command to roll a d100 BEFORE you narrate or write anything else. Higher score means better outcome, lower score means worse outcome.
+## Dice Rolls
 
-Write it at the start of your message, instead of "In Character Score", and then nothing else. Your entire response should be:
+In a situation with uncertainty, automatically use the ROLL_DICE command to roll a d100 BEFORE you narrate or write anything else.
+
+Do not offer a dice roll.  If the situation calls for uncertainty, roll immediately.
+
+Higher score means better outcome, lower score means worse outcome.
+
+When a roll is needed, write only:
 
 ROLL_DICE
 
-Then, in the next message, narrate the outcome.
+Do not include an In Character Score, narration, explanation, or any other text in that message.
 
-Example situations to use this:
+After the dice result is returned, narrate the outcome in the next message.
 
-* The player takes a risky action, such as punching someone.
-* The player tries to make a deal with someone. High score means they accept, low score means they decline, middle means they might have extra demands for the deal.
-* The player searches for opportunities. Sometimes there are good ones, sometimes not.
+Use automatic dice rolls when:
+
+* the player takes a risky action
+* the player attacks, dodges, blocks, sneaks, searches, climbs, steals, lies, persuades, threatens, bargains, casts unstable magic, resists harm, or tries something difficult
+* the result could reasonably be success, failure, or mixed
